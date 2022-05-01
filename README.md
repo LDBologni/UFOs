@@ -32,3 +32,6 @@ The following snapshots will displayed the data filtered by City, State, and Sha
 
 ![Index_Filtered_Table_by_Shape](https://user-images.githubusercontent.com/98929742/166146814-0fd660bb-558f-4cc0-94d8-b411c3371a29.PNG)
 
+## Summary
+
+The update to Dana's webpage has made for the users a much better user experience. Allowing the users to control what filter variables they want to search on, and enganging the user. One major constraint to the website is the limited content in the data array. For future development, it would be required to continuously update the UFO sightings data array. Dana would need to keep updating the sightings data to keep users coming back to her page. In addition, for a more engaging development that Dana could embrace visually mapping where these sighting are occurring, it is a fact that users are more driven by pictures more than data tables. If the data array was stored as a clickable map, it would offer more user engagement.
