@@ -8,6 +8,10 @@ The purpose of the challenge is to use JavaScript, HTML, Bootstrap, and CSS to c
 
 Dana's website has a great, and starts to get an eye catching and professional HTML page. She asked us to add multiple criteria filters for her audience to slice the data across different variables. By using the JavasScript the information added is filtered by the following criterias City, State, Country, and Shape to filter the data by. The information can be filtered without a clickable button and simply filter the moment that an information is entered and is recognized.
 
+**Index Home Page**
+![Index_Page](https://user-images.githubusercontent.com/98929742/166146851-1ef9b5a4-9118-4df1-89fe-de5d36d79aa1.PNG)
+
+
 **Please see below the Data filetered by date**
 
 ![Index_Filtered_Table](https://user-images.githubusercontent.com/98929742/166146690-abd9fb5d-421a-4966-9e49-929a63ce14f0.PNG)
