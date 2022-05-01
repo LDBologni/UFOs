@@ -10,21 +10,21 @@ Dana's website has a great, and starts to get an eye catching and professional H
 
 **Please see below the Data filetered by date**
 
-- ![Index_Filtered_Table](https://user-images.githubusercontent.com/98929742/166146690-abd9fb5d-421a-4966-9e49-929a63ce14f0.PNG)
+![Index_Filtered_Table](https://user-images.githubusercontent.com/98929742/166146690-abd9fb5d-421a-4966-9e49-929a63ce14f0.PNG)
 
 
 The following snapshots will displayed the data filtered by City, State, and Shape
 
 **Filtered by City**
 
-- ![Index_Filtered_Table_by_City](https://user-images.githubusercontent.com/98929742/166146779-ab145715-0635-4a1b-a7ba-95cfdc1f2de9.PNG)
+![Index_Filtered_Table_by_City](https://user-images.githubusercontent.com/98929742/166146779-ab145715-0635-4a1b-a7ba-95cfdc1f2de9.PNG)
 
 
 **Filtered by State**
 
-- ![Index_Filtered_Table_by_State](https://user-images.githubusercontent.com/98929742/166146791-f2c03098-dd27-45e3-86ae-7c03ce7f95b4.PNG)
+![Index_Filtered_Table_by_State](https://user-images.githubusercontent.com/98929742/166146791-f2c03098-dd27-45e3-86ae-7c03ce7f95b4.PNG)
 
 **Filtered by Shape**
 
-- ![Index_Filtered_Table_by_Shape](https://user-images.githubusercontent.com/98929742/166146814-0fd660bb-558f-4cc0-94d8-b411c3371a29.PNG)
+![Index_Filtered_Table_by_Shape](https://user-images.githubusercontent.com/98929742/166146814-0fd660bb-558f-4cc0-94d8-b411c3371a29.PNG)
 
